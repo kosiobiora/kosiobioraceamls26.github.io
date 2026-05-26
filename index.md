@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like photography"
 
 linkedin: https://www.linkedin.com/in/example
-image: /assets/images/profile.svg
+image: assets/images/Professional Image 2026-01-08 at 20.59.10.jpeg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
