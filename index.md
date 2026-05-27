@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Holly Springs, MS"
   - "🚀 I like photography"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/kosisochukwu-obiora-33b037263/
 image: assets/images/Professional Image 2026-01-08 at 20.59.10.jpeg
 
 # A "Currently" block — three short status lines for the home page.
