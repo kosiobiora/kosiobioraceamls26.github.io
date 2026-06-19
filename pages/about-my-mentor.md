@@ -18,10 +18,6 @@ faculty_mentor:
   image: /assets/images/faculty-mentor.svg
   website: https://example.com/pat-nguyen
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Saroj Pramanik is a researcher whose work spans biochemistry, cancer biology, plant science, and environmental biotechnology. His research focuses on gene expression, cancer biomarker development, bioremediation, and plant biotechnology. As my faculty mentor, he has provided valuable guidance throughout my research experience, helping me better understand how interdisciplinary approaches can be used to address real world challenges in healthcare and environmental sustainability. His expertise and support have been instrumental in shaping my understanding of the research process and its broader impact.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
 ---
