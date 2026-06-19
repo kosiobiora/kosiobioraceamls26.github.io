@@ -12,7 +12,7 @@ problem: |
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
 
-  - Step 1 — what you'll build, collect, or analyze first
+  - Step 1 — Research and Data Preparation: Conduct a literature review to identify research gaps in dermatology AI and preprocess datasets through label encoding, missing value imputation, and class balancing.
   - Step 2 — the next phase of the work
   - Step 3 — how you'll evaluate or test
   - Step 4 — how you'll communicate the results
