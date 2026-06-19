@@ -11,9 +11,7 @@ about:
   bio: |
     Hi! I'm Kosi, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests sit at the intersection of human-computer interaction, cybersecurity, and applied machine learning. I'm especially curious about how everyday tools can be made more accessible, adaptive, and secure through intelligent software.
 
     Outside of class, you'll find me reading books, creating art, or completing side quests with my friends.
 
