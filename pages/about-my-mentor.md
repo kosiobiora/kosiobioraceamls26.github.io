@@ -9,12 +9,10 @@ graduate_mentor:
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/alex-morgan
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Blessing is a PhD candidate at Morgan State University and serves as the AI/ML research mentor for our project, DermaBridge: A Trustworthy Multimodal AI App for Skin Lesion Screening, Explainable Risk Assessment, and Smart Clinical Referral. 
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+With a background in deep learning, machine learning, data science, and web development, Blessing is passionate about using data-driven insights to solve real-world problems and drive innovation. Her expertise has helped our team better understand both the technical and practical aspects of building reliable AI systems.
+
 
 faculty_mentor:
   name: Dr. Saroj Pramanik
