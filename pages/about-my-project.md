@@ -17,7 +17,6 @@ approach: |
   - Step 3 — Fairness Evaluation and Improvement: Perform fairness auditing across skin tone and demographic groups, implement bias mitigation strategies, and iteratively refine the model based on results.
   - Step 4 — Deployment and Communication: Develop the DermaBridge application interface, integrate it with the trained model, and communicate findings through presentations, documentation, and a research paper.
 
-  Mention the specific tools, datasets, or methods you'll use.
 
 outcome: |
   By the end of the program, we expect to produce a functional prototype of DermaBridge that combines skin lesion screening, explainable risk assessment, and smart clinical referral capabilities. We also aim to develop a trained machine learning model that has been evaluated for both predictive performance and fairness across different demographic groups. In addition, we expect to produce a research paper, presentation materials, and technical documentation that summarize our methodology, findings, and lessons learned. These outputs will help demonstrate how fairness aware AI systems can be developed for healthcare applications and provide a foundation for future improvements and research.
