@@ -9,7 +9,7 @@ graduate_mentor:
   image: assets/images/Blessing Adeika picture.jpg
   website: https://www.linkedin.com/in/blessing-isoyiza-adeika/
   bio: |
-    Blessing is a PhD candidate at Morgan State University and serves as the AI/ML research mentor for our project, DermaBridge: A Trustworthy Multimodal AI App for Skin Lesion Screening, Explainable Risk Assessment, and Smart Clinical Referral. With a background in deep learning, machine learning, data science, and web development, Blessing is passionate about using data-driven insights to solve real-world problems and drive innovation. Her expertise has helped our team better understand both the technical and practical aspects of building reliable AI systems.
+    Blessing is a PhD candidate at Morgan State University and serves as the AI/ML research mentor for our project, DermaBridge: A Trustworthy Multimodal AI App for Skin Lesion Screening, Explainable Risk Assessment, and Smart Clinical Referral. With a background in deep learning, machine learning, data science, and web development, Blessing is passionate about using data-driven insights to solve real-world problems and drive innovation. Her guidance has helped our team better understand both the technical and practical aspects of building reliable AI systems.
 
 
 faculty_mentor:
