@@ -29,10 +29,10 @@ about:
       description: Quality time with my friends helps me reset.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: assets/images/Big Little Lies.jpg
+      caption: My favorite novel.
+    - image: assets/images/Sunset Picture.jpeg
+      caption: A photo taken at sunset.
+    - image: /assets/images/Human Candle Drawing.jpeg
+      caption: One of my recent drawings.
 ---
