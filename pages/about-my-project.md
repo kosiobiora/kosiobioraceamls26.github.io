@@ -32,9 +32,9 @@ final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Blessing Adeika
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/blessing-isoyiza-adeika/
 
 faculty_mentor:
   name: Dr. Saroj Pramanik
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik
 ---
