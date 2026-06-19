@@ -10,7 +10,7 @@ quick_facts:
   - "🎓 Sophomore, Computer Science"
   - "🔬 Interested in Artificial Intelligence"
   - "📍 Based in Holly Springs, MS"
-  - "🚀 I like photography"
+  - "📸 I like photography"
 
 linkedin: https://www.linkedin.com/in/kosisochukwu-obiora-33b037263/
 image: assets/images/Professional Image 2026-01-08 at 20.59.10.jpeg
@@ -18,9 +18,9 @@ image: assets/images/Professional Image 2026-01-08 at 20.59.10.jpeg
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "Rock Paper Scissors — Alice Feeney"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "AI App for Skin Lesion Screening"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "How AI is transforming the future of cybersecurity"
 ---
