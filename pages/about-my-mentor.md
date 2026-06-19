@@ -15,7 +15,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Saroj Pramanik
   title: Associate Professor, School of Engineering
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/Pramanik Saroj.jpg
   website: https://example.com/pat-nguyen
   bio: |
     Dr. Saroj Pramanik is a researcher whose work spans biochemistry, cancer biology, plant science, and environmental biotechnology. His research focuses on gene expression, cancer biomarker development, bioremediation, and plant biotechnology. As my faculty mentor, he has provided valuable guidance throughout my research experience, helping me better understand how interdisciplinary approaches can be used to address real world challenges in healthcare and environmental sustainability. His expertise and support have been instrumental in shaping my understanding of the research process and its broader impact.
