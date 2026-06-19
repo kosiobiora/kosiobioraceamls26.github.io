@@ -13,9 +13,9 @@ approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
 
   - Step 1 — Research and Data Preparation: Conduct a literature review to identify research gaps in dermatology AI and preprocess datasets through label encoding, missing value imputation, and class balancing.
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
+  - Step 2 — Model Development: Train and evaluate the EfficientNetB0, ResNet50, and EfficientNetV2 based machine learning models for skin lesion classification using the prepared dataset.
+  - Step 3 — Fairness Evaluation and Improvement: Perform fairness auditing across skin tone and demographic groups, implement bias mitigation strategies, and iteratively refine the model based on results.
+  - Step 4 — Deployment and Communication: Develop the DermaBridge application interface, integrate it with the trained model, and communicate findings through presentations, documentation, and a research paper.
 
   Mention the specific tools, datasets, or methods you'll use.
 
